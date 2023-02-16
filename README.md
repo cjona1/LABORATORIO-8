@@ -26,6 +26,10 @@ OBJETIVOS ESPECÍFICOS
 
 # 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/116817673/219510721-54e75ad5-f884-4026-877f-50db740786a3.png)
+
+![image](https://user-images.githubusercontent.com/116817673/219510736-d496d7f2-c922-4087-aa67-a9c6166d42d3.png)
+
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/116817673/219503633-30aa0162-3b4b-42f6-9428-39e4987c1798.png)
